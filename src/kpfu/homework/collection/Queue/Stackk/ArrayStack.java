@@ -1,4 +1,4 @@
-package Stackk;
+package kpfu.homework.collection.Queue.Stackk;
 
 import java.util.ArrayList;
 import java.util.List;

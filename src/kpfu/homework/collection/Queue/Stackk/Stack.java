@@ -1,4 +1,4 @@
-package Stackk;
+package kpfu.homework.collection.Queue.Stackk;
 
 /**
  * Created by Tony on 27.02.2017.

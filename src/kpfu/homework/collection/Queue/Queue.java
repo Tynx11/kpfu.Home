@@ -1,4 +1,4 @@
-package Queue;
+package kpfu.homework.collection.Queue;
 
 /**
  * Created by Tony on 27.02.2017.

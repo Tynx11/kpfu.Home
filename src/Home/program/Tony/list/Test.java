@@ -1,10 +1,9 @@
-package list;
+package Home.program.Tony.list;
 
 /**
  * Created by Tony on 28.02.2017.
  */
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 import java.util.function.BiFunction;
 import java.util.function.UnaryOperator;

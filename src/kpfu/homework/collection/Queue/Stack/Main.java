@@ -1,4 +1,4 @@
-package Stack;
+package kpfu.homework.collection.Queue.Stack;
 
 /**
  * Created by Tony on 20.02.2017.

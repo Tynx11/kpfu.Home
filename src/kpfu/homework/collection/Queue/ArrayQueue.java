@@ -1,4 +1,4 @@
-package Queue;
+package kpfu.homework.collection.Queue;
 
 import java.util.ArrayList;
 import java.util.List;
