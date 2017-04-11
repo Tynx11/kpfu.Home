@@ -7,10 +7,10 @@ import java.util.LinkedList;
 /**
  * Created by Tony on 27.02.2017.
  */
-public class ArrayDeque implements Deque {
+public class LinkedDeck implements Deque {
     private LinkedList deque;
 
-    public ArrayDeque() {
+    public LinkedDeck() {
         deque = new LinkedList();
     }
 
